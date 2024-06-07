@@ -1,0 +1,2 @@
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanrw7&theme=midnight-purple&hide=stars,issues&show_icons=true)](https://github.com/juanrw7/juanrw7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrw7&theme=midnight-purple&layout=compact)](https://github.com/juanrw7/juanrw7)
